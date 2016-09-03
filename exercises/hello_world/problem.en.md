@@ -1,6 +1,6 @@
 # Hello World
 
-Let's set up a simple electron application.
+Let's set up a simple Electron application.
 
 First, create a new empty folder and do the rest of these steps inside that new folder.
 
